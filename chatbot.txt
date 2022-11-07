@@ -1,0 +1,32 @@
+Followings are some of the important properties of RE −
+
+American Mathematician Stephen Cole Kleene formalized the Regular Expression language.
+
+RE is a formula in a special language, which can be used for specifying simple classes of strings, a sequence of symbols. In other words, we can say that RE is an algebraic notation for characterizing a set of strings.
+
+Regular expression requires two things, one is the pattern that we wish to search and other is a corpus of text from which we need to search.
+
+Mathematically, A Regular Expression can be defined as follows −
+
+ε is a Regular Expression, which indicates that the language is having an empty string.
+
+φ is a Regular Expression which denotes that it is an empty language.
+
+If X and Y are Regular Expressions, then
+
+
+
+
+
+
+The term automata, derived from the Greek word "αὐτόματα" meaning "self-acting", is the plural of automaton which may be defined as an abstract self-propelled computing device that follows a predetermined sequence of operations automatically.
+
+
+
+
+It may be defined as the type of finite automation where for every input symbol we cannot determine the state to which the machine will move i.e. the machine can move to any combination of the states. It has a finite number of states that is why the machine is called Non-deterministic Finite Automation (NDFA).
+
+
+
+
+The term morphological parsing is related to the parsing of morphemes. We can define morphological parsing as the problem of recognizing that a word breaks down into smaller meaningful units called morphemes producing some sort of linguistic structure for it. For example, we can break the word foxes into two, fox and -es. We can see that the word foxes, is made up of two morphemes, one is fox and other is -es.
